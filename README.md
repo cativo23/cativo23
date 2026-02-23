@@ -48,9 +48,9 @@ When I'm not coding, you'll find me:
 
 <div align="center">
 
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cativo23&show_icons=true&theme=dark&hide_border=true)
+![Carlos's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cativo23&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cativo23&show_icons=true&theme=dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cativo23&show_icons=true&theme=dark&hide_border=true&layout=compact)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=cativo23&theme=dark&hide_border=true)
 
