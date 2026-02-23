@@ -38,7 +38,7 @@ cativo23@github:~$ cat skills.json
   },
   "backend":  ["Laravel", "NestJS", "FastAPI", "Django"],
   "frontend": ["Vue.js", "Nuxt.js", "TailwindCSS"],
-  "devops":   ["Docker", "Kubernetes", "AWS", "CI/CD", "Nginx"],
+  "devops":   ["Docker", "Kubernetes", "Traefik", "AWS", "CI/CD", "Nginx"],
   "databases":["PostgreSQL", "MySQL", "MongoDB", "Redis"],
   "learning": ["Go", "LLM Agents", "AI/ML"]
 }
