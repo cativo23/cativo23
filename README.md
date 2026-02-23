@@ -33,47 +33,50 @@ cativo23@github:~$ cat skills.json
 
 ```json
 {
-  "primary_languages": {
-    "PHP": "████████████████████  (9 repos)",
-    "Vue.js": "██████████░░░░░░░░  (4 repos)",
-    "TypeScript": "██████░░░░░░░░░░  (2 repos)",
-    "Python": "██████░░░░░░░░░░░░  (2 repos)",
-    "JavaScript": "██████░░░░░░░░░░  (3 repos)"
+  "languages": {
+    "PHP":        "████████████████████  (9 repos)",
+    "TypeScript": "██████████░░░░░░░░░░  (4 repos)",
+    "JavaScript": "██████████░░░░░░░░░░  (3 repos)",
+    "Python":     "██████░░░░░░░░░░░░░░  (2 repos)",
+    "Shell":      "██████░░░░░░░░░░░░░░  (3 repos)",
+    "C#":         "██████░░░░░░░░░░░░░░  (1 repo)"
   },
   "frameworks": {
-    "backend": ["Laravel", "NestJS", "FastAPI", "Django"],
-    "frontend": ["Vue.js", "Nuxt.js", "TailwindCSS"],
-    "specialty": "REST APIs & Microservices"
+    "backend":  ["Laravel", "NestJS", "FastAPI", "Django"],
+    "frontend": ["Vue.js", "Nuxt.js", "TailwindCSS"]
   },
-  "devops": ["Docker", "Kubernetes", "AWS", "CI/CD", "Nginx", "Traefik"],
-  "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "MariaDB"],
-  "currently_learning": ["Go", "Systems Programming"]
+  "devops":     ["Docker", "Kubernetes", "AWS", "CI/CD", "Nginx", "Traefik"],
+  "databases":  ["PostgreSQL", "MySQL", "MongoDB", "Redis", "MariaDB"],
+  "learning":   ["Go", "Systems Programming"]
 }
 ```
 
 ---
 
 ```
-cativo23@github:~$ ls projects/
+cativo23@github:~$ ls -la projects/
 ```
 
-| Repository | Description | Language |
-|------------|-------------|----------|
-| clarify | Micro-SaaS de auditoría legal automática | Vue |
-| portfolio-api | API for my portfolio | TypeScript |
-| portfolio | Portfolio and Blog made with nuxt | Vue |
-| myths-and-legends-api | API de Mitos y Leyendas de El Salvador | Python |
-| life-changers-api | Auth Service with NestJS | TypeScript |
-| parking-microservices | Parking Mgmt with microservices | PHP |
-| fastapi-demo | API development with FastAPI | Python |
-| laravel-api-boostrap | Laravel API starter | PHP |
-| docker-templates | Docker configs and templates | Shell |
-| Cats-VS-The-Universe | Tower Defense Game (Android) | C# |
+```
+total 48
+drwxr-xr-x  2 cativo23 cativo23 4096  Feb 22  2026  .
+drwxr-xr-x  5 cativo23 cativo23 4096  Feb 22  2026  ..
+drwxr-xr-x  3 cativo23 cativo23 4096  2024  clarify/           # Vue • Micro-SaaS auditoría legal
+drwxr-xr-x  3 cativo23 cativo23 4096  2024  portfolio-api/     # TS   • Portfolio API
+drwxr-xr-x  3 cativo23 cativo23 4096  2023  portfolio/         # Vue  • Portfolio & Blog (Nuxt)
+drwxr-xr-x  3 cativo23 cativo23 4096  2023  myths-and-legends-api/  # Py  • Mitos y Leyendas SV
+drwxr-xr-x  3 cativo23 cativo23 4096  2024  life-changers-api/ # TS   • NestJS Auth Service
+drwxr-xr-x  3 cativo23 cativo23 4096  2023  parking-microservices/ # PHP • Microservices Arch
+drwxr-xr-x  3 cativo23 cativo23 4096  2023  fastapi-demo/      # Py   • FastAPI Demo
+drwxr-xr-x  3 cativo23 cativo23 4096  2022  laravel-api-boostrap/  # PHP • Laravel Starter
+drwxr-xr-x  3 cativo23 cativo23 4096  2023  docker-templates/  # Sh   • Docker Configs
+drwxr-xr-x  3 cativo23 cativo23 4096  2022  Cats-VS-The-Universe/  # C#  • Tower Defense Game
+```
 
 ---
 
 ```
-cativo23@github:~$ neofetch --stats
+cativo23@github:~$ cat stats.txt
 ```
 
 <div align="center">
