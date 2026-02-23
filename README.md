@@ -15,7 +15,7 @@
 │  cativo23@github:~$ whoami                                          │
 ├─────────────────────────────────────────────────────────────────────┤
 │  Carlos Cativo                                                      │
-│  Full Stack Developer | 8+ years experience                         │
+│  Full Stack Developer (backend-focused) | 8+ years                  │
 │  Location: San Salvador, El Salvador                                │
 │  OS: Arch Linux (btw)                                               │
 └─────────────────────────────────────────────────────────────────────┘
@@ -34,66 +34,14 @@ cativo23@github:~$ cat skills.json
     "TypeScript": "██████████░░░░░░░░░░  (4 repos)",
     "JavaScript": "██████████░░░░░░░░░░  (3 repos)",
     "Python":     "██████░░░░░░░░░░░░░░  (2 repos)",
-    "Shell":      "██████░░░░░░░░░░░░░░  (3 repos)",
-    "C#":         "██████░░░░░░░░░░░░░░  (1 repo)"
+    "Shell":      "██████░░░░░░░░░░░░░░  (3 repos)"
   },
-  "frameworks": {
-    "backend":  ["Laravel", "NestJS", "FastAPI", "Django"],
-    "frontend": ["Vue.js", "Nuxt.js", "TailwindCSS"]
-  },
-  "devops":     ["Docker", "Kubernetes", "AWS", "CI/CD", "Nginx", "Traefik"],
-  "databases":  ["PostgreSQL", "MySQL", "MongoDB", "Redis", "MariaDB"],
-  "learning":   ["Go", "AI/ML", "LLM Agents"]
+  "backend":  ["Laravel", "NestJS", "FastAPI", "Django"],
+  "frontend": ["Vue.js", "Nuxt.js", "TailwindCSS"],
+  "devops":   ["Docker", "Kubernetes", "AWS", "CI/CD", "Nginx"],
+  "databases":["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  "learning": ["Go", "LLM Agents", "AI/ML"]
 }
-```
-
----
-
-```
-cativo23@github:~$ cat projects.txt
-```
-
-```
-┌─────────────────────────────┬──────────────────────────────────────┬────────────┐
-│ Repository                  │ Description                          │ Language   │
-├─────────────────────────────┼──────────────────────────────────────┼────────────┤
-│ clarify                     │ Micro-SaaS auditoría legal con IA    │ Vue        │
-│ portfolio-api               │ Portfolio API                        │ TypeScript │
-│ portfolio                   │ Portfolio & Blog (Nuxt)              │ Vue        │
-│ myths-and-legends-api       │ Mitos y Leyendas de El Salvador      │ Python     │
-│ life-changers-api           │ NestJS Auth Service                  │ TypeScript │
-│ parking-microservices       │ Parking Mgmt - Microservices         │ PHP        │
-│ fastapi-demo                │ FastAPI Demo                         │ Python     │
-│ laravel-api-boostrap        │ Laravel API Starter                  │ PHP        │
-│ docker-templates            │ Docker Configs                       │ Shell      │
-│ Cats-VS-The-Universe        │ Tower Defense Game (Android)         │ C#         │
-└─────────────────────────────┴──────────────────────────────────────┴────────────┘
-```
-
----
-
-```
-cativo23@github:~$ cat environment.txt
-```
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  SYSTEM CONFIGURATION                                               │
-├─────────────────────────────────────────────────────────────────────┤
-│  OS: Arch Linux                                                     │
-│       - Rolling release, minimal, DIY                               │
-│       - Custom kernel configs, AUR enthusiast                       │
-│                                                                     │
-│  Containerization: Docker                                           │
-│       - Multi-stage builds, optimized images                        │
-│       - Docker Compose for local dev                                │
-│       - Templates & reusable configs                                │
-│                                                                     │
-│  Orchestration: Kubernetes                                          │
-│       - Cluster management                                          │
-│       - Helm charts, operators                                      │
-│       - Cloud-native deployments                                    │
-└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -103,28 +51,15 @@ cativo23@github:~$ cat current_focus.yaml
 ```
 
 ```yaml
-status: active
-
 learning:
-  - language: Go
-    focus: Systems programming
-
-  - field: Artificial Intelligence
-    topics:
-      - LLM Agents for Call Centers
-      - AI-powered automation
-      - Conversational AI systems
+  - Go
+  - LLM Agents for Call Centers
+  - AI-powered automation
 
 working_on:
-  - Microservices architecture
-  - REST API design
-  - Cloud-native technologies
-
-interests:
-  - Distributed systems
+  - Microservices & API design
   - Kubernetes orchestration
-  - DevOps automation
-  - AI/ML integration
+  - Docker containerization
 ```
 
 ---
@@ -149,24 +84,8 @@ cativo23@github:~$ ./connect.sh
 
 ```bash
 #!/bin/bash
-# Open to collaborations and opportunities
-
 CONTACT="cativo23.kt@gmail.com"
-STATUS="available"
-
-echo "Let's talk about:"
-echo "  → Backend/Frontend architecture"
-echo "  → API design patterns"
-echo "  → DevOps & Cloud-native tech"
-echo "  → AI/LLM Agents integration"
-echo "  → Open source projects"
-```
-
----
-
-```
-cativo23@github:~$ echo "I like all cyberpunk related"
-> I like all cyberpunk related
+echo "Open to: APIs, Microservices, DevOps, AI/LLM projects"
 ```
 
 <div align="center">
@@ -178,5 +97,4 @@ cativo23@github:~$ echo "I like all cyberpunk related"
 ```
 cativo23@github:~$ exit
 logout
-Connection closed.
 ```
