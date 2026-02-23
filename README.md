@@ -1,30 +1,88 @@
-<h1 align="center">Hi 👋, I'm Carlos Cativo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cativo23&label=Profile%20views&color=0e75b6&style=flat-square" alt="cativo23" /> </p>
+# Hey, I'm Carlos Cativo 👋
 
-- 🌱 I’m currently learning **Golang**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://cativo.dev/](https://cativo.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cativo.dev-blue?style=for-the-badge)](https://cativo.dev/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger)](https://blog.cativo.dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/cativo23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cativo23)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/ccativo23)
 
-- 📝 I regularly write articles on [my blog](https://blog.cativo.dev/)
+</div>
 
-- 📫 How to reach me **cativo23.kt@gmail.com**
+---
 
-- 📄 Know about my experiences [https://cativo.dev/CV_Carlos%20Cativo_2020.pdf](https://cativo.dev/CV_Carlos%20Cativo_2020.pdf)
+## 👨‍💻 About Me
 
-- ⚡ Fun fact **I like all cyberpunk related**
+I'm a **passionate backend developer** with **8+ years of experience** building scalable and efficient server-side applications. I specialize in designing and implementing high-performance **APIs**, **microservices**, and **data processing systems**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cativo23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cativo23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cativo23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cativo23" height="30" width="40" /></a>
-<a href="https://instagram.com/ccativo23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ccativo23" height="30" width="40" /></a>
-</p>
+When I'm not coding, you'll find me:
+- 📝 Writing technical articles on [my blog](https://blog.cativo.dev/)
+- 🐧 Tinkering with my **Arch Linux** setup (yes, I use Arch btw)
+- 🎮 Exploring cyberpunk universes in games and media
+- 🚀 Diving into new technologies and cloud-native tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cativo23&show_icons=true&theme=dark&locale=en&layout=compact" alt="cativo23" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cativo23&show_icons=true&locale=en" alt="cativo23" /></p>
+| **Backend** | **Frontend** | **Databases** |
+|-------------|--------------|---------------|
+| Laravel (API specialist) | Vue.js | PostgreSQL |
+| NestJS | Nuxt.js | MySQL |
+| FastAPI | JavaScript/TypeScript | MongoDB |
+| Go (learning) | TailwindCSS | Redis |
+| Python | | MariaDB |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cativo23&theme=dark" alt="cativo23" /></p>
+| **DevOps & Cloud** | **Tools** |
+|--------------------|-----------|
+| Docker | Git |
+| Kubernetes | Bash |
+| AWS | Postman |
+| CI/CD | Grafana |
+| Nginx | IFTTT |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cativo23&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cativo23&show_icons=true&theme=dark&hide_border=true&layout=compact)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=cativo23&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+- 🔭 Working on **microservices architecture** and **API design**
+- 🌱 Currently learning **Go** for systems programming
+- 📚 Exploring **distributed systems** patterns
+- 🎯 Deepening knowledge in **Kubernetes** and **cloud-native technologies**
+
+---
+
+## 💬 Let's Connect
+
+I'm always open to discussing:
+- 🤝 Collaboration on open-source projects
+- 💡 Backend architecture and API design patterns
+- ☕ Coffee chats about distributed systems, DevOps, or anything tech
+- 🎯 New opportunities and challenges
+
+**Reach out:** [cativo23.kt@gmail.com](mailto:cativo23.kt@gmail.com)
+
+---
+
+<div align="center">
+
+### ⚡ *"I like all cyberpunk related"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=cativo23&label=Profile%20views&color=0e75b6&style=flat-square)
+
+</div>
