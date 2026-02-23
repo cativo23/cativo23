@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&text=cativo23&reversal=false&textBg=false&animation=fadeIn&theme=tokyonight)
+![Header](https://capsule-render.vercel.app/api?type=rect&height=100&text=cativo23&color=00ADB5&stroke=FF2E63&theme=dark)
 
 </div>
 
