@@ -17,7 +17,7 @@
 │  Carlos Cativo                                                      │
 │  Full Stack Developer | 8+ years experience                         │
 │  Location: San Salvador, El Salvador                                │
-│  OS: Arch Linux                                                     │
+│  OS: Arch Linux (btw)                                               │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -43,7 +43,7 @@ cativo23@github:~$ cat skills.json
   },
   "devops":     ["Docker", "Kubernetes", "AWS", "CI/CD", "Nginx", "Traefik"],
   "databases":  ["PostgreSQL", "MySQL", "MongoDB", "Redis", "MariaDB"],
-  "learning":   ["Go", "Systems Programming"]
+  "learning":   ["Go", "AI/ML", "LLM Agents"]
 }
 ```
 
@@ -57,7 +57,7 @@ cativo23@github:~$ cat projects.txt
 ┌─────────────────────────────┬──────────────────────────────────────┬────────────┐
 │ Repository                  │ Description                          │ Language   │
 ├─────────────────────────────┼──────────────────────────────────────┼────────────┤
-│ clarify                     │ Micro-SaaS auditoría legal           │ Vue        │
+│ clarify                     │ Micro-SaaS auditoría legal con IA    │ Vue        │
 │ portfolio-api               │ Portfolio API                        │ TypeScript │
 │ portfolio                   │ Portfolio & Blog (Nuxt)              │ Vue        │
 │ myths-and-legends-api       │ Mitos y Leyendas de El Salvador      │ Python     │
@@ -68,6 +68,63 @@ cativo23@github:~$ cat projects.txt
 │ docker-templates            │ Docker Configs                       │ Shell      │
 │ Cats-VS-The-Universe        │ Tower Defense Game (Android)         │ C#         │
 └─────────────────────────────┴──────────────────────────────────────┴────────────┘
+```
+
+---
+
+```
+cativo23@github:~$ cat environment.txt
+```
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  SYSTEM CONFIGURATION                                               │
+├─────────────────────────────────────────────────────────────────────┤
+│  OS: Arch Linux                                                     │
+│       - Rolling release, minimal, DIY                               │
+│       - Custom kernel configs, AUR enthusiast                       │
+│                                                                     │
+│  Containerization: Docker                                           │
+│       - Multi-stage builds, optimized images                        │
+│       - Docker Compose for local dev                                │
+│       - Templates & reusable configs                                │
+│                                                                     │
+│  Orchestration: Kubernetes                                          │
+│       - Cluster management                                          │
+│       - Helm charts, operators                                      │
+│       - Cloud-native deployments                                    │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```
+cativo23@github:~$ cat current_focus.yaml
+```
+
+```yaml
+status: active
+
+learning:
+  - language: Go
+    focus: Systems programming
+
+  - field: Artificial Intelligence
+    topics:
+      - LLM Agents for Call Centers
+      - AI-powered automation
+      - Conversational AI systems
+
+working_on:
+  - Microservices architecture
+  - REST API design
+  - Cloud-native technologies
+
+interests:
+  - Distributed systems
+  - Kubernetes orchestration
+  - DevOps automation
+  - AI/ML integration
 ```
 
 ---
@@ -87,27 +144,6 @@ cativo23@github:~$ cat stats.txt
 ---
 
 ```
-cativo23@github:~$ cat current_focus.yaml
-```
-
-```yaml
-status: active
-learning:
-  - language: Go
-    goal: Systems programming
-working_on:
-  - Microservices architecture
-  - REST API design
-  - Cloud-native technologies
-interests:
-  - Distributed systems
-  - Kubernetes orchestration
-  - DevOps automation
-```
-
----
-
-```
 cativo23@github:~$ ./connect.sh
 ```
 
@@ -122,6 +158,7 @@ echo "Let's talk about:"
 echo "  → Backend/Frontend architecture"
 echo "  → API design patterns"
 echo "  → DevOps & Cloud-native tech"
+echo "  → AI/LLM Agents integration"
 echo "  → Open source projects"
 ```
 
